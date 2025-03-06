@@ -1,0 +1,133 @@
+[
+    {
+      "id": 41,
+      "name": "Mindful Mood Capsules",
+      "type": "supplement",
+      "description": "Ashwagandha and passionflower blend for stress management and mood balance",
+      "effects": ["stress relief", "mood stabilization"],
+      "ingredients": ["Ashwagandha", "Passionflower", "L-theanine"],
+      "price": 24.99,
+      "sales_data": {
+        "units_sold": 60,
+        "last_month_revenue": 1499.40
+      }
+    },
+    {
+      "id": 42,
+      "name": "Probiotic Gut Restore",
+      "type": "supplement",
+      "description": "Multi-strain probiotic with prebiotic fiber for gut health",
+      "effects": ["gut flora balance", "digestive comfort"],
+      "ingredients": ["Probiotics", "Inulin", "Psyllium Husk"],
+      "price": 29.99,
+      "sales_data": {
+        "units_sold": 80,
+        "last_month_revenue": 2399.20
+      }
+    },
+    {
+      "id": 43,
+      "name": "Eco-Friendly Energy Bars",
+      "type": "snack",
+      "description": "Sustainable energy bars made with plant-based protein and recycled packaging",
+      "effects": ["sustained energy", "eco-friendly"],
+      "ingredients": ["Pea Protein", "Coconut Sugar", "Recycled Packaging"],
+      "price": 10.99,
+      "sales_data": {
+        "units_sold": 120,
+        "last_month_revenue": 1318.80
+      }
+    },
+    {
+      "id": 44,
+      "name": "AI-Powered Personalized Vitamins",
+      "type": "supplement",
+      "description": "Customized vitamin packs based on genetic analysis and lifestyle",
+      "effects": ["personalized nutrition", "health optimization"],
+      "ingredients": ["Vitamins A-Z", "Minerals", "Genetic Insights"],
+      "price": 49.99,
+      "sales_data": {
+        "units_sold": 40,
+        "last_month_revenue": 1999.60
+      }
+    },
+    {
+      "id": 45,
+      "name": "Marine Collagen Powder",
+      "type": "supplement",
+      "description": "Algae-based collagen with omega-3 for skin and joint health",
+      "effects": ["skin elasticity", "joint support"],
+      "ingredients": ["Marine Collagen", "Omega-3", "Vitamin C"],
+      "price": 39.99,
+      "sales_data": {
+        "units_sold": 55,
+        "last_month_revenue": 2199.45
+      }
+    },
+    {
+      "id": 46,
+      "name": "Nootropic Brain Boost Tea",
+      "type": "beverage",
+      "description": "Herbal tea blend with lion's mane and ginseng for cognitive function",
+      "effects": ["mental clarity", "focus enhancement"],
+      "ingredients": ["Lion's Mane", "Ginseng", "Green Tea"],
+      "price": 16.99,
+      "sales_data": {
+        "units_sold": 90,
+        "last_month_revenue": 1528.10
+      }
+    },
+    {
+      "id": 47,
+      "name": "Adaptogenic Mushroom Capsules",
+      "type": "supplement",
+      "description": "Blend of reishi, chaga, and cordyceps for stress resilience",
+      "effects": ["stress resilience", "immunity support"],
+      "ingredients": ["Reishi", "Chaga", "Cordyceps"],
+      "price": 32.99,
+      "sales_data": {
+        "units_sold": 65,
+        "last_month_revenue": 2143.35
+      }
+    },
+    {
+      "id": 48,
+      "name": "Sustainable Protein Powder",
+      "type": "supplement",
+      "description": "Plant-based protein powder made from recycled pea protein",
+      "effects": ["muscle recovery", "eco-friendly"],
+      "ingredients": ["Recycled Pea Protein", "Coconut Sugar"],
+      "price": 25.99,
+      "sales_data": {
+        "units_sold": 85,
+        "last_month_revenue": 2214.15
+      }
+    },
+    {
+      "id": 49,
+      "name": "Microbiome Analysis Kit",
+      "type": "diagnostic tool",
+      "description": "At-home microbiome testing kit for personalized gut health insights",
+      "effects": ["gut health insights", "personalized nutrition"],
+      "ingredients": ["Microbiome Test Kit", "Genetic Analysis"],
+      "price": 99.99,
+      "sales_data": {
+        "units_sold": 30,
+        "last_month_revenue": 2999.70
+      }
+    },
+    {
+      "id": 50,
+      "name": "Eco-Friendly Skincare Set",
+      "type": "beauty product",
+      "description": "Refillable skincare set with natural ingredients and biodegradable packaging",
+      "effects": ["skin health", "sustainability"],
+      "ingredients": ["Natural Oils", "Herbal Extracts", "Biodegradable Packaging"],
+      "price": 49.99,
+      "sales_data": {
+        "units_sold": 50,
+        "last_month_revenue": 2499.50
+      }
+    }
+  ]
+  
